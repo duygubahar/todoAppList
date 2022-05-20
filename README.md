@@ -20,5 +20,5 @@ https://www.youtube.com/watch?v=PO24ydfdBv0 <br/>
 https://ibrahim-kurce.medium.com/flutter-ve-sqlite-ile-todo-uygulamas%C4%B1-4b45d6268660  <br/><br/>
 todoApp gif görüntüsü<br/><br/>
 
-![todo](https://user-images.githubusercontent.com/103886178/169616686-cc713690-38d9-416b-bc05-e334802ce295.gif)
- 
+
+![todoApp](https://user-images.githubusercontent.com/103886178/169617554-bffac599-6c49-4968-8d06-c68f6d69b238.gif)

@@ -15,6 +15,10 @@ Ek olarak ise kullanıcı navigatör kısmında kategorilerini görebilir ve her
 Ödevi Yapanlar<br/>
 Duygu Bahar - 1190505624 
 Doğa Nur Kartal - 1190505068 <br/><br/><br/><br/>
+Yardım alınan kaynaklar
+https://www.youtube.com/watch?v=PO24ydfdBv0
+https://ibrahim-kurce.medium.com/flutter-ve-sqlite-ile-todo-uygulamas%C4%B1-4b45d6268660  <br/><br/>
 todoApp gif görüntüsü<br/><br/>
 
 ![todo](https://user-images.githubusercontent.com/103886178/169616686-cc713690-38d9-416b-bc05-e334802ce295.gif)
+ 

@@ -15,8 +15,6 @@ Ek olarak ise kullanıcı navigatör kısmında kategorilerini görebilir ve her
 Ödevi Yapanlar<br/>
 Duygu Bahar - 1190505624 
 Doğa Nur Kartal - 1190505068 <br/><br/><br/><br/>
-todoApp gif görüntüsü<br/><br/><br/><br/>
-
-
+todoApp gif görüntüsü<br/><br/>
 
 ![todo](https://user-images.githubusercontent.com/103886178/169616686-cc713690-38d9-416b-bc05-e334802ce295.gif)

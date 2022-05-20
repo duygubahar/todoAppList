@@ -16,7 +16,7 @@ Ek olarak ise kullanıcı navigatör kısmında kategorilerini görebilir ve her
 Duygu Bahar - 1190505624 
 Doğa Nur Kartal - 1190505068 <br/><br/><br/><br/>
 Yardım alınan kaynaklar
-https://www.youtube.com/watch?v=PO24ydfdBv0
+https://www.youtube.com/watch?v=PO24ydfdBv0 <br/>
 https://ibrahim-kurce.medium.com/flutter-ve-sqlite-ile-todo-uygulamas%C4%B1-4b45d6268660  <br/><br/>
 todoApp gif görüntüsü<br/><br/>
 
